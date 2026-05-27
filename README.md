@@ -1,6 +1,6 @@
 #  Image Overlay - Tracing Utility
 
-Una herramienta premium y ligera desarrollada en **C# y Windows Forms** diseñada para artistas, diseñadores, modeladores 3D y desarrolladores. Permite superponer cualquier imagen (local o de internet) sobre la pantalla con opacidad ajustable, permitiendo dibujar, calcar o comparar diseños directamente sobre otras aplicaciones abiertas.
+Una herramienta sencilla y ligera desarrollada en **C# y Windows Forms** diseñada para artistas, diseñadores y desarrolladores. Permite superponer cualquier imagen (local o de internet) sobre la pantalla con opacidad ajustable, permitiendo dibujar, calcar o comparar diseños directamente sobre otras aplicaciones abiertas.
 
 ---
 
